@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 html{
-            font-size: 20px;
+            font-size: 20.5px;
         }
         *{
             margin: 0;
             padding: 0;
-            box-sizing: border-box;
+/*             box-sizing: border-box; */
         }
         .imageContainer {
             width: 1100px;
